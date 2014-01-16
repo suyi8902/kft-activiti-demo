@@ -12,9 +12,9 @@
 
 # 框架版本
 
-* Activiti: **5.13**
+* Activiti: **5.14**
 
-* Spring: **3.1.1.RELEASE**
+* Spring: **3.2.5.RELEASE**
 
 * Hibernate: **4.1.4.Final**
 
@@ -33,6 +33,10 @@ Demo提供Maven版本和no-maven版本，分别适用于会用mavne和不会用m
 ![kft-activiti-demo截图](http://www.kafeitu.me/files/2012/05/kft-activiti-demo.png)
 
 ## Changelog
+
+### 1.9.0（2014-01-01）
+1. 升级Activiti到5.14
+2. 同时支持纯Rest接口和Activiti Modeler的Rest路径映射
 
 ### 1.8.0（2013-06-22）
 1. 升级Activiti至5.13
